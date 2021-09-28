@@ -2,10 +2,7 @@
 title: "p8105_hw1_qc2307"
 author: "Qixiang Chen"
 date: "9/28/2021"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
